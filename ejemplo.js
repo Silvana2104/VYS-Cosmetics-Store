@@ -5,7 +5,7 @@ if(confirm("hello it´s me")) {
 	alert("ah que cuquita");
 }else {
 	// lo que se hace si No se cumple la condicion
-	alert("abrace");
+	alert("ah que py");
 }
 
 //confirm("¿Me extrñas?")

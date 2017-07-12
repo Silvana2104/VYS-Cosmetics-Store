@@ -2,7 +2,7 @@
 
 if(confirm("hello it´s me")) {
 	// lo que se hace si se cumple la condición
-	alert("ah que cuca");
+	alert("ah que cuquita");
 }else {
 	// lo que se hace si No se cumple la condicion
 	alert("abrace");
